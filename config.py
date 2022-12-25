@@ -6,5 +6,3 @@ DATABASE_CONFIG = {
     'password': 'alamakota123',
     'database': 'flask_test'
 }
-
-#DATABASE_URL=mysql://myuser:mypassword@localhost:3306/mydatabase
